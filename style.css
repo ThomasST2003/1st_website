@@ -119,3 +119,13 @@ dl {
     justify-content: flex-end;
     align-items: center;
 }
+
+.help {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-around;
+}
