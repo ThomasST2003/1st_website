@@ -1,6 +1,8 @@
 body {
     background-color: #eff2c0;
     font-family: "Roboto", sans-serif;
+    width: 100%;
+    height: 100%;
 }
 
 p {
@@ -88,3 +90,20 @@ li a {
     justify-content: space-between;
 }
 
+.location {
+    display: flex;
+    justify-content: flex-start;
+}
+
+dl {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 25px;
+}
+
+.open {
+    float: right;
+    border: solid black 3px;
+    border-radius: 25px;
+    background-color: #a52422;
+}
