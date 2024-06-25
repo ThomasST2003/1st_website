@@ -107,3 +107,15 @@ dl {
     border-radius: 25px;
     background-color: #a52422;
 }
+
+.reviews {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.reviews2 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
